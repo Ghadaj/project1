@@ -26,7 +26,7 @@ Then you can interact with myhubot by typing `myhubot help`.
 myhubot respond to three questions:
 
 1- "what is the weather today in {city}" this will return a message with the weather information. If the city name spelled wrong it will ask you to enter the correct name. 
-It uses openWeather map API to retrieve the weather information of the selected city.  
+It uses openWeatherMap API to retrieve the weather information of the selected city.  
 
 
 2- "do I have a class today" this will return the message "Yes you have a class today at 6 p.m" if it is Monday or Wednesday, else will return "No you don't have a class today".
